@@ -2,8 +2,6 @@
 
 **Excel portfolio project — descriptive statistics, probability distributions, and correlation analysis**
 
-**[📊 View or download the complete Excel workbook](Student_Commute_Analysis.xlsx)**
-
 ## Project overview
 
 This project explores commuting patterns in a dataset of **500 students**. The analysis examines commuting time, travel distance, transport mode, transport costs, transfers, delays, and the number of commuting days per week.
